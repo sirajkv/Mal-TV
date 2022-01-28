@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Pulari
-http://192.99.2.28/pularitv_hls/pularitv.m3u8
-#EXTINF:-1,24 News Malayalam (New!)
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMPfzzt.png" , Anand TV (720p)
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" , Kairali Arabia (480p) [Not 24/7]
+https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hXsVrIh.jpg" , Kairali News (576p)
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
